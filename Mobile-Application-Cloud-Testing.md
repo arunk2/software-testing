@@ -21,3 +21,5 @@ providing developers/enterprises with end-to-end control for manual and automate
 Implementing a cloud-based testing approach with agile testing methodologies for mobile applications is the need of the hour to quickly 
 and cost-effectively respond to rapidly changing markets, with a satisfactory level of service quality 
 and compatibility maintained across the wide variety of available mobile devices.
+
+![Mobile Cloud Testing](/images/MobileCloudTesting.png)
