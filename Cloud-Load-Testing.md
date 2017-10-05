@@ -27,7 +27,10 @@ Once they are operational it writes a proper JMeter.
 
 The overall Architecture of the JMeter in the Cloud solution is shown below.
 ![Cloud Testing](/images/JmeterCloud.png)
+
+
 The tester talks from his machine to an instance of the Starter Kit amazon machine image (AMI) containing all the necessary software (Starter Kit, JMeter). 
+
 The Starter Kit machine is accessed using a linux based remote desktop application (NX client, available for unix and windows).
 The Starter Kit instance starts up as many slaves as requested. 
 
